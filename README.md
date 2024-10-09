@@ -3,4 +3,4 @@
 utile come tunnel
 user : test
 password: password
-defalut port 2222
+default port 2222
